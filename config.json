@@ -1,0 +1,36 @@
+{
+    "token": "MTMwOTc2NTAzODEyNjUzMDY1MA.GxAv0r.I-L3TNM0rNtVdbePTp3J51DK1xNloEBgx-KhG8",
+    "phone": "0879310856",
+    "channelLog": "1308376845322031104",
+    "ownerId": "569144104773222421",
+    "roleSettings": [
+        {
+            "roleId": "1309017664663978054",
+            "price": 200
+        },
+        {
+            "roleId": "1309017743403782215",
+            "price": 200
+        },
+        {
+            "roleId": "1309017544153235518",
+            "price": 100
+        },
+        {
+            "roleId": "1309017603980918885",
+            "price": 100
+        },
+        {
+            "roleId": "1308754427989069877",
+            "price": 50
+        },
+        {
+            "roleId": "1308754181481435206",
+            "price": 50
+        },
+        {
+            "roleId": "1308270456565923940",
+            "price": 30
+        }
+    ]
+}
